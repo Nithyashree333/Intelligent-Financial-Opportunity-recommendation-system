@@ -1,0 +1,15 @@
+{
+  "opportunity_id": "string",
+  "name": "string",
+  "provider": "string",
+  "category": "string",
+  "minimum_investment_inr": "number",
+  "tenure_min_months": "number|null",
+  "tenure_max_months": "number|null",
+  "risk": "string",
+  "expected_return_min_pct": "number|null",
+  "expected_return_max_pct": "number|null",
+  "return_type": "string",
+  "source_document": "string",
+  "extraction_confidence": "number"
+}

@@ -1,0 +1,25 @@
+# All tunables live here - no magic numbers in code.
+retrieval:
+  hybrid: true            # BM25 + dense fused with RRF; false = BM25 only (ablation)
+  fusion_k: 60            # RRF damping constant
+  top_k: 50               # candidates forwarded to the ranker
+  dense_model: "sentence-transformers/all-MiniLM-L6-v2"
+ranking:
+  abstain_threshold: 0.25 # below best score -> refuse rather than mislead
+  rag_semantic_weight: 0.40 # TF-IDF cosine share in RAG blend (rules get 0.60)
+  weights:                # justified in docs/TECHNICAL_NOTE.md
+    text_relevance: 0.25
+    budget_fit: 0.25
+    risk_fit: 0.20
+    tenure_fit: 0.20
+    return_fit: 0.10
+query:
+  tenure_tolerance_months: 3
+output:
+  top_n: 5
+paths:
+  opportunities_dir: "data/opportunities"
+  db: "data/opportunities.db"
+  index: "data/index.json"
+  vectors: "data/vectors.npy"
+  labelled: "data/labelled_examples.csv"

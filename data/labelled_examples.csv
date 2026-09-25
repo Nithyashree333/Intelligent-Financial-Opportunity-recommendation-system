@@ -1,0 +1,9 @@
+query_id,query,relevant_ids
+Q001,"I have ₹2 lakh, want medium risk and around 2 years, and prefer a return above 9%.",OPP002;OPP020;OPP025;OPP029
+Q002,"I only need to park ₹50,000 for about 1 year and I want low risk.",OPP026;OPP012;OPP015;OPP030
+Q003,"Budget is ₹1 lakh, high risk is acceptable, and I can stay invested for 3 to 5 years.",OPP004;OPP013;OPP022;OPP027
+Q004,"I have ₹80,000 and want moderate risk for roughly 18 months.",OPP023;OPP001;OPP003;OPP015
+Q005,"Looking for something around 6 to 12 months, under ₹1 lakh, with a return close to 10%.",OPP010;OPP030
+Q006,"I can invest ₹3 lakh, accept high risk and want at least 3 years.",OPP004;OPP009;OPP019;OPP022
+Q007,I have ₹2.5 lakh and prefer moderate risk for 2 to 3 years.,OPP008;OPP020;OPP028;OPP029
+Q008,"I need a conservative option for 3 to 6 months with only ₹10,000.",OPP017

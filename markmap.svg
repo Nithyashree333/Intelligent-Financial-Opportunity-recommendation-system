@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="markmap mm-tepjh4-4" style="width: 100%; height: 100%;"><style>.markmap{--markmap-max-width: 9999px;--markmap-a-color: #0097e6;--markmap-a-hover-color: #00a8ff;--markmap-code-bg: #f0f0f0;--markmap-code-color: #555;--markmap-highlight-bg: #ffeaa7;--markmap-table-border: 1px solid currentColor;--markmap-font: 300 16px/20px sans-serif;--markmap-circle-open-bg: #fff;--markmap-text-color: #333;--markmap-highlight-node-bg: #ff02;font:var(--markmap-font);color:var(--markmap-text-color)}.markmap-link{fill:none}.markmap-node&gt;circle{cursor:pointer}.markmap-foreign{display:inline-block}.markmap-foreign p{margin:0}.markmap-foreign a{color:var(--markmap-a-color)}.markmap-foreign a:hover{color:var(--markmap-a-hover-color)}.markmap-foreign code{padding:.25em;font-size:calc(1em - 2px);color:var(--markmap-code-color);background-color:var(--markmap-code-bg);border-radius:2px}.markmap-foreign pre{margin:0}.markmap-foreign pre&gt;code{display:block}.markmap-foreign del{text-decoration:line-through}.markmap-foreign em{font-style:italic}.markmap-foreign strong{font-weight:700}.markmap-foreign mark{background:var(--markmap-highlight-bg)}.markmap-foreign table,.markmap-foreign th,.markmap-foreign td{border-collapse:collapse;border:var(--markmap-table-border)}.markmap-foreign img{display:inline-block}.markmap-foreign svg{fill:currentColor}.markmap-foreign&gt;div{width:var(--markmap-max-width);text-align:left}.markmap-foreign&gt;div&gt;div{display:inline-block}.markmap-highlight rect{fill:var(--markmap-highlight-node-bg)}.markmap-dark .markmap{--markmap-code-bg: #1a1b26;--markmap-code-color: #ddd;--markmap-circle-open-bg: #444;--markmap-text-color: #eee}</style><g transform="translate(20.000000000000057,302.43072890664007) scale(0.3794308537194208)"><path class="markmap-link" data-depth="3" data-path="1.3.4" d="M872,-512.969C912,-512.969,912,-552.719,952,-552.719" stroke-width="1.375" stroke="rgb(214, 39, 40)"/><path class="markmap-link" data-depth="3" data-path="1.3.5" d="M872,-512.969C912,-512.969,912,-526.344,952,-526.344" stroke-width="1.375" stroke="rgb(148, 103, 189)"/><path class="markmap-link" data-depth="3" data-path="1.3.6" d="M872,-512.969C912,-512.969,912,-499.969,952,-499.969" stroke-width="1.375" stroke="rgb(140, 86, 75)"/><path class="markmap-link" data-depth="3" data-path="1.3.7" d="M872,-512.969C912,-512.969,912,-473.594,952,-473.594" stroke-width="1.375" stroke="rgb(227, 119, 194)"/><path class="markmap-link" data-depth="3" data-path="1.8.9" d="M833,-328.531C873,-328.531,873,-215.219,913,-215.219" stroke-width="1.375" stroke="rgb(188, 189, 34)"/><path class="markmap-link" data-depth="3" data-path="1.10.11" d="M962,73.344C1002,73.344,1002,330.156,1042,330.156" stroke-width="1.375" stroke="rgb(31, 119, 180)"/><path class="markmap-link" data-depth="3" data-path="1.12.13" d="M821,374.906C861,374.906,861,361.531,901,361.531" stroke-width="1.375" stroke="rgb(44, 160, 44)"/><path class="markmap-link" data-depth="3" data-path="1.12.14" d="M821,374.906C861,374.906,861,387.906,901,387.906" stroke-width="1.375" stroke="rgb(214, 39, 40)"/><path class="markmap-link" data-depth="3" data-path="1.15.16" d="M851,434.656C891,434.656,891,421.281,931,421.281" stroke-width="1.375" stroke="rgb(140, 86, 75)"/><path class="markmap-link" data-depth="3" data-path="1.15.17" d="M851,434.656C891,434.656,891,449.656,931,449.656" stroke-width="1.375" stroke="rgb(227, 119, 194)"/><path class="markmap-link" data-depth="2" data-path="1.2" d="M635,11.25C675,11.25,675,-539.719,715,-539.719" stroke-width="1.75" stroke="rgb(255, 127, 14)"/><path class="markmap-link" data-depth="2" data-path="1.3" d="M635,11.25C675,11.25,675,-512.969,715,-512.969" stroke-width="1.75" stroke="rgb(44, 160, 44)"/><path class="markmap-link" data-depth="2" data-path="1.8" d="M635,11.25C675,11.25,675,-328.531,715,-328.531" stroke-width="1.75" stroke="rgb(127, 127, 127)"/><path class="markmap-link" data-depth="2" data-path="1.10" d="M635,11.25C675,11.25,675,73.344,715,73.344" stroke-width="1.75" stroke="rgb(23, 190, 207)"/><path class="markmap-link" data-depth="2" data-path="1.12" d="M635,11.25C675,11.25,675,374.906,715,374.906" stroke-width="1.75" stroke="rgb(255, 127, 14)"/><path class="markmap-link" data-depth="2" data-path="1.15" d="M635,11.25C675,11.25,675,434.656,715,434.656" stroke-width="1.75" stroke="rgb(148, 103, 189)"/><path class="markmap-link" data-depth="2" data-path="1.18" d="M635,11.25C675,11.25,675,481.219,715,481.219" stroke-width="1.75" stroke="rgb(127, 127, 127)"/><path class="markmap-link" data-depth="2" data-path="1.19" d="M635,11.25C675,11.25,675,507.969,715,507.969" stroke-width="1.75" stroke="rgb(188, 189, 34)"/><path class="markmap-link" data-depth="2" data-path="1.20" d="M635,11.25C675,11.25,675,534.719,715,534.719" stroke-width="1.75" stroke="rgb(23, 190, 207)"/><path class="markmap-link" data-depth="2" data-path="1.21" d="M635,11.25C675,11.25,675,561.469,715,561.469" stroke-width="1.75" stroke="rgb(31, 119, 180)"/><g class="markmap-highlight"/><g data-depth="2" data-path="1.2" class="markmap-node" transform="translate(715, -560.59375)"><line stroke="#ff7f0e" stroke-width="1.75" x1="-1" x2="102" y1="20.875" y2="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="84" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">1. Overview</div></div></foreignObject></g><g data-depth="3" data-path="1.3.4" class="markmap-node" transform="translate(952, -573.40625)"><line stroke="#d62728" stroke-width="1.375" x1="-1" x2="553" y1="20.6875" y2="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="535" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Groundedness over fluency: every claim traces to a source document span.</div></div></foreignObject></g><g data-depth="3" data-path="1.3.5" class="markmap-node" transform="translate(952, -547.03125)"><line stroke="#9467bd" stroke-width="1.375" x1="-1" x2="741" y1="20.6875" y2="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="723" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Determinism where money is involved: constraints and abstention are rule-based, never model-based.</div></div></foreignObject></g><g data-depth="3" data-path="1.3.6" class="markmap-node" transform="translate(952, -520.65625)"><line stroke="#8c564b" stroke-width="1.375" x1="-1" x2="782" y1="20.6875" y2="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="764" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Variant seam: rules engine and RAG engine share one pipeline behind two interfaces for fair A/B evaluation.</div></div></foreignObject></g><g data-depth="3" data-path="1.3.7" class="markmap-node" transform="translate(952, -494.28125)"><line stroke="#e377c2" stroke-width="1.375" x1="-1" x2="578" y1="20.6875" y2="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="560" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Reproducibility: runs fully offline; zero required API keys; pinned dependencies.</div></div></foreignObject></g><g data-depth="2" data-path="1.3" class="markmap-node" transform="translate(715, -533.84375)"><line stroke="#2ca02c" stroke-width="1.75" x1="-1" x2="159" y1="20.875" y2="20.875"/><circle stroke-width="1.5" r="6" stroke="#2ca02c" fill="var(--markmap-circle-open-bg)" cx="157" cy="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="141" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">2. Design Principles</div></div></foreignObject></g><g data-depth="3" data-path="1.8.9" class="markmap-node" transform="translate(913, -462.90625)"><line stroke="#bcbd22" stroke-width="1.375" x1="-1" x2="631" y1="247.6875" y2="247.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="613" height="247"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><pre data-lines="15,29"><code data-lines="15,29">Documents ──▶ Extractor ──▶ Normalizer ──▶ Validator ──▶ Storage <span class="hljs-punctuation">(</span>SQLite + Vector Index<span class="hljs-punctuation">)</span>
+                                                            │
+NL <span class="hljs-keyword">Query</span> ──▶ <span class="hljs-keyword">Query</span> Parser ──▶ Retriever <span class="hljs-punctuation">(</span>BM25 + Dense + RRF<span class="hljs-punctuation">)</span>│
+                                    │                       │
+                                    ▼                       ▼
+                              Ranker <span class="hljs-punctuation">[</span>rules <span class="hljs-punctuation">|</span> rag<span class="hljs-punctuation">]</span> ◀── Candidates
+                                    │
+                                    ▼
+                              Explainer <span class="hljs-punctuation">[</span>template <span class="hljs-punctuation">|</span> rag<span class="hljs-punctuation">]</span> ──▶ Recommendation <span class="hljs-punctuation">(</span>with evidence<span class="hljs-punctuation">)</span>
+                                    │
+                                    ▼
+                              Evaluator ──▶ P<span class="hljs-meta">@5</span> / R<span class="hljs-meta">@5</span> / Hit<span class="hljs-meta">@5</span> + comparison report
+</code></pre></div></div></foreignObject></g><g data-depth="2" data-path="1.8" class="markmap-node" transform="translate(715, -349.40625)"><line stroke="#7f7f7f" stroke-width="1.75" x1="-1" x2="120" y1="20.875" y2="20.875"/><circle stroke-width="1.5" r="6" stroke="#7f7f7f" fill="var(--markmap-circle-open-bg)" cx="118" cy="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="102" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">3. Architecture</div></div></foreignObject></g><g data-depth="3" data-path="1.10.11" class="markmap-node" transform="translate(1042, -204.53125)"><line stroke="#1f77b4" stroke-width="1.375" x1="-1" x2="963" y1="534.6875" y2="534.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="945" height="534"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="32,58">
+<thead data-lines="32,33">
+<tr data-lines="32,33">
+<th>Path</th>
+<th>Role</th>
+</tr>
+</thead>
+<tbody data-lines="34,58">
+<tr data-lines="34,35">
+<td><code>main.py</code></td>
+<td>CLI entry: <code>--query</code>, <code>--eval</code>, <code>--mode rules|rag</code>; routes to pipeline</td>
+</tr>
+<tr data-lines="35,36">
+<td><code>config.yaml</code></td>
+<td>All thresholds, ranking weights, fusion params, model names — no magic numbers in code</td>
+</tr>
+<tr data-lines="36,37">
+<td><code>src/schemas.py</code></td>
+<td>Pydantic models: Opportunity, QueryIntent, RankedOpportunity, Recommendation — single source of truth</td>
+</tr>
+<tr data-lines="37,38">
+<td><code>src/extractor/extract.py</code></td>
+<td>Rule/regex extraction of schema fields from raw text; missing stays None</td>
+</tr>
+<tr data-lines="38,39">
+<td><code>src/extractor/llm_backend.py</code></td>
+<td>Optional LLM extraction adapter behind same contract; system runs without it</td>
+</tr>
+<tr data-lines="39,40">
+<td><code>src/extractor/normalize.py</code></td>
+<td>₹/Rs/lakh/crore → INR ints; years/months/ranges → tenure_min/tenure_max</td>
+</tr>
+<tr data-lines="40,41">
+<td><code>src/extractor/validate.py</code></td>
+<td>Pydantic validation; return-type classification (indicative/historical/coupon/variable)</td>
+</tr>
+<tr data-lines="41,42">
+<td><code>src/storage/db.py</code></td>
+<td>SQLite persistence of validated records; rebuildable from documents</td>
+</tr>
+<tr data-lines="42,43">
+<td><code>src/storage/index.py</code></td>
+<td>Offline build of BM25 index + embedding store (one command)</td>
+</tr>
+<tr data-lines="43,44">
+<td><code>src/query_parser/parse.py</code></td>
+<td>NL query → QueryIntent: budget, risk, tenure ± tolerance, free-text</td>
+</tr>
+<tr data-lines="44,45">
+<td><code>src/retriever/bm25.py</code></td>
+<td>Sparse retrieval — exact values, product names, numbers</td>
+</tr>
+<tr data-lines="45,46">
+<td><code>src/retriever/dense.py</code></td>
+<td>Embedding cosine — paraphrases, intent language</td>
+</tr>
+<tr data-lines="46,47">
+<td><code>src/retriever/fusion.py</code></td>
+<td>RRF fusion of both rankings → top-k candidates</td>
+</tr>
+<tr data-lines="47,48">
+<td><code>src/ranker/base.py</code></td>
+<td>AbstractRanker interface — the seam</td>
+</tr>
+<tr data-lines="48,49">
+<td><code>src/ranker/rules.py</code></td>
+<td>Hard-constraint filter → weighted score → abstain flag; weights justified in config</td>
+</tr>
+<tr data-lines="49,50">
+<td><code>src/ranker/rag.py</code></td>
+<td>[VARIANT STUB] LLM reranking behind the same interface</td>
+</tr>
+<tr data-lines="50,51">
+<td><code>src/explainer/base.py</code></td>
+<td>AbstractExplainer interface — the seam</td>
+</tr>
+<tr data-lines="51,52">
+<td><code>src/explainer/template.py</code></td>
+<td>Reasons built from extracted fields + source spans; guarantee-language blocked</td>
+</tr>
+<tr data-lines="52,53">
+<td><code>src/explainer/rag.py</code></td>
+<td>[VARIANT STUB] LLM draft + citation verifier behind same interface</td>
+</tr>
+<tr data-lines="53,54">
+<td><code>src/evaluator/metrics.py</code></td>
+<td>Precision@5, Recall@5, HitRate@5</td>
+</tr>
+<tr data-lines="54,55">
+<td><code>src/evaluator/runner.py</code></td>
+<td>Runs labelled queries through both modes on identical retrieval</td>
+</tr>
+<tr data-lines="55,56">
+<td><code>src/evaluator/report.py</code></td>
+<td>Per-query tables, overall scores, failure analysis, side-by-side comparison</td>
+</tr>
+<tr data-lines="56,57">
+<td><code>tests/</code></td>
+<td>Unit tests: normalization, extraction fidelity, abstention, metrics correctness</td>
+</tr>
+<tr data-lines="57,58">
+<td><code>docs/TECHNICAL_NOTE.md</code></td>
+<td>Architecture, assumptions, failure modes, 10M-doc scaling, production safeguards</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="2" data-path="1.10" class="markmap-node" transform="translate(715, 52.46875)"><line stroke="#17becf" stroke-width="1.75" x1="-1" x2="249" y1="20.875" y2="20.875"/><circle stroke-width="1.5" r="6" stroke="#17becf" fill="var(--markmap-circle-open-bg)" cx="247" cy="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="231" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">4. Module Map (what sits where)</div></div></foreignObject></g><g data-depth="3" data-path="1.12.13" class="markmap-node" transform="translate(901, 340.84375)"><line stroke="#2ca02c" stroke-width="1.375" x1="-1" x2="666" y1="20.6875" y2="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="648" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Offline (once): documents → extraction → normalization → validation → SQLite → indexes.</div></div></foreignObject></g><g data-depth="3" data-path="1.12.14" class="markmap-node" transform="translate(901, 367.21875)"><line stroke="#d62728" stroke-width="1.375" x1="-1" x2="713" y1="20.6875" y2="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="695" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Online (per query): parse → hybrid retrieve → rank → explain → (eval mode) score against labels.</div></div></foreignObject></g><g data-depth="2" data-path="1.12" class="markmap-node" transform="translate(715, 354.03125)"><line stroke="#ff7f0e" stroke-width="1.75" x1="-1" x2="108" y1="20.875" y2="20.875"/><circle stroke-width="1.5" r="6" stroke="#ff7f0e" fill="var(--markmap-circle-open-bg)" cx="106" cy="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="90" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">5. Data Flow</div></div></foreignObject></g><g data-depth="3" data-path="1.15.16" class="markmap-node" transform="translate(931, 398.59375)"><line stroke="#8c564b" stroke-width="1.375" x1="-1" x2="719" y1="22.6875" y2="22.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="701" height="22"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><code>AbstractRanker.rank(intent, candidates) -&gt; list[RankedOpportunity]</code> — must set abstain when unsupported.</div></div></foreignObject></g><g data-depth="3" data-path="1.15.17" class="markmap-node" transform="translate(931, 426.96875)"><line stroke="#e377c2" stroke-width="1.375" x1="-1" x2="820" y1="22.6875" y2="22.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="802" height="22"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><code>AbstractExplainer.explain(intent, ranked) -&gt; Recommendation</code> — every reason carries claim + field + source doc + span.</div></div></foreignObject></g><g data-depth="2" data-path="1.15" class="markmap-node" transform="translate(715, 413.78125)"><line stroke="#9467bd" stroke-width="1.75" x1="-1" x2="138" y1="20.875" y2="20.875"/><circle stroke-width="1.5" r="6" stroke="#9467bd" fill="var(--markmap-circle-open-bg)" cx="136" cy="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="120" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">6. Key Interfaces</div></div></foreignObject></g><g data-depth="2" data-path="1.18" class="markmap-node" transform="translate(715, 460.34375)"><line stroke="#7f7f7f" stroke-width="1.75" x1="-1" x2="184" y1="20.875" y2="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="166" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">7. Scoring (rules mode)</div></div></foreignObject></g><g data-depth="2" data-path="1.19" class="markmap-node" transform="translate(715, 487.09375)"><line stroke="#bcbd22" stroke-width="1.75" x1="-1" x2="111" y1="20.875" y2="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="93" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">8. Evaluation</div></div></foreignObject></g><g data-depth="2" data-path="1.20" class="markmap-node" transform="translate(715, 513.84375)"><line stroke="#17becf" stroke-width="1.75" x1="-1" x2="118" y1="20.875" y2="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="100" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">9. Safeguards</div></div></foreignObject></g><g data-depth="2" data-path="1.21" class="markmap-node" transform="translate(715, 540.59375)"><line stroke="#1f77b4" stroke-width="1.75" x1="-1" x2="219" y1="20.875" y2="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="201" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">10. Scaling Path (10M docs)</div></div></foreignObject></g><g data-depth="1" data-path="1" class="markmap-node" transform="translate(0, -10)"><line stroke="#1f77b4" stroke-width="2.5" x1="-1" x2="637" y1="21.25" y2="21.25"/><circle stroke-width="1.5" r="6" stroke="#1f77b4" fill="var(--markmap-circle-open-bg)" cx="635" cy="21.25"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="619" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">System Design — Intelligent Financial Opportunity Analysis &amp; Recommendation Engine</div></div></foreignObject></g></g></svg>
